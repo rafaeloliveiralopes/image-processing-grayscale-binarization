@@ -3,8 +3,8 @@
 Este projeto faz parte do segundo desafio de projeto do bootcamp Machine Learning Practitioner em parceria com a empresa BairesDev. O objetivo é realizar a implementação em Python para transformar uma imagem colorida para níveis de cinza (0 a 255) e para binarizada (0 e 255), preto e branco, usando a técnica de redução de dimensionabilidade em imagens.  
 A imagem utilizada neste projeto é da vista de um dos um dos pontos turísticos mais conhecidos da cidade de Balneário Camboriú.
 
-## Importância da Técnica de Redução de Dimensionabilidade em Imagens para Redes Neurais
-A redução de dimensionabilidade em imagens para redes neurais é utilizada com vários objetivos. Mas os principais são:
+## Importância da Técnica de Redução de Dimensionalidade em Imagens para Redes Neurais
+A redução de dimensionalidade em imagens para redes neurais é utilizada com vários objetivos. Mas os principais são:
 
 - 1- Processar imagens para  evidenciar regiões de interesse;
 - 2- Dertectar objetos por meio de suas formas e cores;
